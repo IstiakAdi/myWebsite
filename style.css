@@ -1,0 +1,143 @@
+body {
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+}
+section {
+    margin-bottom: 60px;
+    margin-top:60px;
+}
+.box-divider {
+    width: 500px;
+    float: left;
+    padding-left: 30px;
+    padding-top: 30px;
+    
+}
+.box-divider h1 {
+    font-size: 25px;
+    line-height: 40px;
+}
+.box-divider h2{
+    color:lightcoral
+}
+.box-divider p{
+    line-height: 30px;
+    color:dimgrey;
+    text-align: justify;
+}
+.content-wrapper {
+    position: relative;
+    top: 60px;
+    margin-left:30px;
+}
+.box-divider img {
+    width: 480px;
+    margin-left: 190px;
+    height: 500px;
+}
+.highlighter{
+    color:tomato;
+    font-size:30px;
+}
+.single-highlight {
+    font-size:25px;
+}
+.myHeading{
+    background-image: url(images/header-bg.png);
+    height: 580px;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+}
+.box-divider #indicator-img {
+    margin-left: 20px;
+}
+.bioTextWrapper {
+    margin-left: 150px;
+    position: absolute;
+    top: 750px;
+}
+.advventure{
+    color:tomato;
+    text-transform: uppercase;
+}
+.bioTextWrapper h1 {
+    line-height: 25px;
+}
+.myBiography{
+    background-image: url("images/biography-bg.png");
+    height: 580px;
+    background-repeat: no-repeat;
+}
+.myButton{
+    padding: 8px 20px;
+    background-image: linear-gradient( 45deg,yellow,rgb(45, 241, 143));
+    position: relative;
+    top: 20px;
+    color:black;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.box-divider.work-box {
+    width: 100%;
+}
+.box-divider.work-box img {
+    width: 390px;
+    float: left;
+    height: 337px;
+    margin-left: 0px;
+    margin-right: 50px;
+}
+.workUpdate{
+    background-image: url("images/latest-work-bg.png");
+    height:580px;
+    background-repeat: no-repeat;
+    
+
+}
+.workUpdate h1{
+    text-align: center;
+    margin-bottom: 30px !important;
+}
+.box-divider.ClientArea {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0;
+    text-align: center;
+}
+
+.box-divider.ClientArea h1 {text-align: center;
+font-size: 35px;
+margin-bottom: 50px;
+}
+
+.box-divider.ClientArea h3 {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.box-divider.ClientArea h4 {
+    text-align: center;
+    margin-top: -10px;
+    font-size: 13px;
+    color: dimgray;
+}
+
+.box-divider.ClientArea p {
+    margin: auto;
+    margin-top: 50px;
+    width: 467px;
+    text-align: justify;
+}
+section.reviewArea {
+    margin-top: 0;
+    background-image: url("images/footer-bg.png");
+    height:580px;
+    background-repeat: no-repeat;
+}
+footer{
+    background-color: rgb(223, 219, 219);
+    padding: 10px;
+    text-align: center;
+}
