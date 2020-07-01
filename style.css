@@ -137,7 +137,8 @@ section.reviewArea {
     background-repeat: no-repeat;
 }
 footer{
-    background-color: rgb(223, 219, 219);
+    background-color: lightgray;
     padding: 10px;
     text-align: center;
+    color:dimgray
 }
