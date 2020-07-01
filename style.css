@@ -140,5 +140,6 @@ footer{
     background-color: lightgray;
     padding: 10px;
     text-align: center;
-    color:dimgray
+    color:dimgray;
+    font-size: 15px;
 }
